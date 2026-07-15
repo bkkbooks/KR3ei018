@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ei018/v1
 canonical_location: https://kanripo.org/bkk/KR3ei018/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 女科精要
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ei018_001.yaml, hash: 'sha256:c4d8c8704fb93a8fbcd12e8ba0387170db7443e61e6054323afafa2d2e3f072b'}
-  - {seq: 2, filename: KR3ei018_002.yaml, hash: 'sha256:09c8c3f199406bb765781bd61973f27f48e52bb315999061d719dfa945770664'}
-  - {seq: 3, filename: KR3ei018_003.yaml, hash: 'sha256:d69308d61f25800c9102ec901660fbec465994821d8ea2d8f085d9102ae898b6'}
+  - {seq: 1, filename: KR3ei018_001.yaml, hash: 'sha256:f3518c267ae0f511b8398f976c96db190218f500eb82a3e65a8eb22119ef3641'}
+  - {seq: 2, filename: KR3ei018_002.yaml, hash: 'sha256:30f7a479b7cb5c4aa707ba542a70a3b76ec97ca1dc899a382ddfcb25c30cdfdf'}
+  - {seq: 3, filename: KR3ei018_003.yaml, hash: 'sha256:7001e09c34e859e139d99d075ddbbe0fa624ad06b55a4abeb341916ff15405d2'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ei018_001.markers.yaml, hash: 'sha256:fa0f4ab45c7ea573187e2bbf8ed1a43641535c019c05d4b46531d1691848c66b'}
-  - {seq: 2, role: markers, filename: assets/KR3ei018_002.markers.yaml, hash: 'sha256:6e9d4bc3de2f42deba89ad266a878c00de6077c726b4a57c437a55cb68897830'}
-  - {seq: 3, role: markers, filename: assets/KR3ei018_003.markers.yaml, hash: 'sha256:3e9ff8959381d40ef3ead459db29ebcb2923e3445fdbfa651ae8d0a7dfd8a43c'}
+  - {seq: 1, role: markers, filename: assets/KR3ei018_001.markers.yaml, hash: 'sha256:b17199442607b2da045b1a4c2583b813d9331cfa5f5c222eb708d94a99da58e1'}
+  - {seq: 2, role: markers, filename: assets/KR3ei018_002.markers.yaml, hash: 'sha256:237cf4092b79c189d215bfdbd2379cc28a98ed85dd0e95fe4000d93dd6898231'}
+  - {seq: 3, role: markers, filename: assets/KR3ei018_003.markers.yaml, hash: 'sha256:9e873cf9fadb704795c287536f0ff8f1196916d1cf9c480492a408ee4dbf9827'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1085,4 +1085,7 @@ table_of_contents:
   label: 產後諸症總論
   type: section
   level: 3
-hash: sha256:a0a4c2513601003cdb780bf3277931a115b37db33b5d73b342031056546f1144
+hash: sha256:dc8ef8047d8b13e8e0d53932dbf1fa602a158875066ad41edd596820b546c53b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
