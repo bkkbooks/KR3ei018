@@ -21,9 +21,9 @@ assets:
   - {seq: 2, filename: KR3ei018_002-jc.yaml, hash: 'sha256:09c8c3f199406bb765781bd61973f27f48e52bb315999061d719dfa945770664'}
   - {seq: 3, filename: KR3ei018_003-jc.yaml, hash: 'sha256:d69308d61f25800c9102ec901660fbec465994821d8ea2d8f085d9102ae898b6'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ei018_001-jc.markers.yaml, hash: 'sha256:92a5da3c8decb3cbf631ebbf99f8c091acedf98921ff58445486bc05296e617c'}
-  - {seq: 2, role: markers, filename: assets/KR3ei018_002-jc.markers.yaml, hash: 'sha256:1ad383b00427b7682bf643ecc654f8c89647d59fca500c4f4674b3194085765e'}
-  - {seq: 3, role: markers, filename: assets/KR3ei018_003-jc.markers.yaml, hash: 'sha256:b245c4887282151b1c3eb03ec2bd9c82007e046e15cfa5efda085b4207ed57d6'}
+  - {seq: 1, role: markers, filename: assets/KR3ei018_001-jc.markers.yaml, hash: 'sha256:d6281ffd92d4f7e8ca6fb1eb7fc1a4f61bcdce66b4d1534baac99ebcca8d47c5'}
+  - {seq: 2, role: markers, filename: assets/KR3ei018_002-jc.markers.yaml, hash: 'sha256:e78b3a2ea17efb47f426196b7865eaa4479fc04a7c1dce7a16c0f7addfe0f46a'}
+  - {seq: 3, role: markers, filename: assets/KR3ei018_003-jc.markers.yaml, hash: 'sha256:aa2ab68865a5d878a2ac506b6712eb3bfce1ee88e7be1028a60b3e65cfa1fdbd'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1085,4 +1085,4 @@ table_of_contents:
   label: 產後諸症總論
   type: section
   level: 3
-hash: sha256:3842b4ea3b721a9652b320c74fa17d8e30611a6cc600982b5dea4eb1aacf6a20
+hash: sha256:4baa40109f72396bce494f3de469004ea667dc0bc81a0c2e1a9ff0835924af7e
